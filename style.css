@@ -139,7 +139,6 @@ header .icons {
 
 .section3 {
   height: 900px;
-  background-color: aquamarine;
 }
 .section3 .p4 {
   width: 450px;
@@ -173,7 +172,6 @@ header .icons {
   text-align: center;
   width: 70%;
   margin: auto;
-  background-color: aqua;
 }
 
 @media (max-width: 500px) {
